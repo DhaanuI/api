@@ -142,3 +142,9 @@ GET http://localhost:9090/posts?_expand=user
 
 ### Recipe Categories
 GET http://localhost:9090/recipeCategories
+
+### DELL home categories
+GET http://localhost:9090/home/
+
+### DELL business
+GET http://localhost:9090/business/
